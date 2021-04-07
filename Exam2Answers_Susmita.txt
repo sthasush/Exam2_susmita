@@ -1,0 +1,18 @@
+1. There are 14370 eagle nests within 1km and 8781 eagle nests within 0.5km of a river.
+
+2. Within 1 km = 5143 eagle nests;
+within 0.5 km = 3034 eagle nests
+
+3. There are 9432 eagle nests within 1km of the coastline
+
+4. 1990
+
+5. Raster to polygon not working so I used 'extract value to points' (only thing that worked)
+  Answer: about 9%
+
+6. Canopy appears to favor eagle nest more.
+
+
+
+Github link:
+https://github.com/sthasush/Exam2_susmita.git
